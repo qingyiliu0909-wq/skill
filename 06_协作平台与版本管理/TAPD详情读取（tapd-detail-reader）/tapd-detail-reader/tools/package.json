@@ -1,0 +1,14 @@
+{
+  "name": "tapd-detail-reader",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Background TAPD detail tab reader for Copilot skills.",
+  "scripts": {
+    "ensure-browser": "node .\\scripts\\ensure-browser.js",
+    "login": "node .\\scripts\\login.js",
+    "read-detail": "node .\\scripts\\read-detail.js"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "mcpServers":  {
+                       "unreal_mcp_server":  {
+                                                 "type":  "stdio",
+                                                 "command":  "uv",
+                                                 "args":  [
+                                                              "--directory",
+                                                              "D:\\DNA\\trunk\\demo\\EM\\Plugins\\UnrealMCP\\Python",
+                                                              "run",
+                                                              "unreal_mcp_server.py"
+                                                          ]
+                                             }
+                   }
+}

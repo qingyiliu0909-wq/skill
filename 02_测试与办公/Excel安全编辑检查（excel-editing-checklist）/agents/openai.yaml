@@ -1,0 +1,4 @@
+interface:
+  display_name: "Excel编辑注意事项"
+  short_description: "安全编辑Excel并校验内容、格式及OOXML结构"
+  default_prompt: "Use $excel-editing-checklist to edit this Excel file while preserving content and validating its formatting."

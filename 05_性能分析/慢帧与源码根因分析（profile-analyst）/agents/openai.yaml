@@ -1,0 +1,4 @@
+interface:
+  display_name: "Profile Analyst"
+  short_description: "Trace performance issues to source and testable fixes"
+  default_prompt: "Use $profile-analyst to trace the highest-value performance problem to source and produce a testable first fix."

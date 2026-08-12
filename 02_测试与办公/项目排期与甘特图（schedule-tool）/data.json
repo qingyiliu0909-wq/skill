@@ -1,0 +1,105 @@
+{
+  "deadline": "2025-06-09",
+  "tasks": {
+    "S01-核心战斗系统": {
+      "template": "S级需求",
+      "version": "1.0",
+      "priority": 100
+    },
+    "A01-用户登录系统": {
+      "template": "A级需求",
+      "version": "1.0",
+      "priority": 95
+    },
+    "A02-支付系统": {
+      "template": "A级需求",
+      "version": "1.0",
+      "priority": 90
+    },
+    "B01-好友系统": {
+      "template": "B级需求",
+      "version": "1.0",
+      "priority": 85
+    },
+    "B02-排行榜系统": {
+      "template": "B级需求",
+      "version": "1.0",
+      "priority": 80
+    },
+    "B03-成就系统": {
+      "template": "B级需求",
+      "version": "1.0",
+      "priority": 75
+    },
+    "C01-公告系统": {
+      "template": "C级需求",
+      "version": "1.0",
+      "priority": 70
+    },
+    "C02-设置页面": {
+      "template": "C级需求",
+      "version": "1.0",
+      "priority": 65
+    },
+    "C03-分享功能": {
+      "template": "C级需求",
+      "version": "1.0",
+      "priority": 60
+    },
+    "C04-礼包码兑换": {
+      "template": "C级需求",
+      "version": "1.0",
+      "priority": 55
+    },
+    "C05-客服系统": {
+      "template": "C级需求",
+      "version": "1.0",
+      "priority": 50
+    },
+    "C06-消息推送": {
+      "template": "C级需求",
+      "version": "1.0",
+      "priority": 45
+    },
+    "C07-新手引导": {
+      "template": "C级需求",
+      "version": "1.0",
+      "priority": 40
+    },
+    "C08-反馈系统": {
+      "template": "C级需求",
+      "version": "1.0",
+      "priority": 35
+    },
+    "C09-签到系统": {
+      "template": "C级需求",
+      "version": "1.0",
+      "priority": 30
+    },
+    "C10-邮件系统": {
+      "template": "C级需求",
+      "version": "1.0",
+      "priority": 25
+    },
+    "C11-帮助中心": {
+      "template": "C级需求",
+      "version": "1.0",
+      "priority": 20
+    },
+    "C12-关于页面": {
+      "template": "C级需求",
+      "version": "1.0",
+      "priority": 15
+    },
+    "C13-用户协议": {
+      "template": "C级需求",
+      "version": "1.0",
+      "priority": 10
+    },
+    "C14-隐私政策": {
+      "template": "C级需求",
+      "version": "1.0",
+      "priority": 5
+    }
+  }
+}

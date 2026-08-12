@@ -1,0 +1,4 @@
+interface:
+  display_name: "Profile Expert"
+  short_description: "Review performance fixes and resolve hard runtime risks"
+  default_prompt: "Use $profile-expert to turn an analyst performance finding into a production-safe fix or a precise architecture decision."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unreal UMG MCP"
+  short_description: "Generate and edit UMG Widget Blueprints through Unreal MCP."
+  default_prompt: "Use Unreal MCP to create or modify a UMG Widget Blueprint."

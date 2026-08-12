@@ -1,0 +1,1655 @@
+========================================================================
+缺失行检查报告
+目录 A（目标）: C:\Pan01\demo\EM_Build\ExportDatas\datas
+目录 B（来源）: D:\OBT1.4Geili\EM\ExportDatas\datas
+========================================================================
+
+[表] AfterLoading.xlsx
+  - 类型: missing_row
+    Sheet: Loading状态链|AfterLoadingFSM
+    主键: OpenForcePopup
+    详情: 目录 A 缺少数据行，主键='OpenForcePopup'，行号=12
+
+[表] CharAccessory.xlsx
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 29998
+    详情: 目录 A 缺少数据行，主键='29998'，行号=236
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 29999
+    详情: 目录 A 缺少数据行，主键='29999'，行号=237
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 39998
+    详情: 目录 A 缺少数据行，主键='39998'，行号=304
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 39999
+    详情: 目录 A 缺少数据行，主键='39999'，行号=305
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 40001
+    详情: 目录 A 缺少数据行，主键='40001'，行号=307
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 40002
+    详情: 目录 A 缺少数据行，主键='40002'，行号=308
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 40004
+    详情: 目录 A 缺少数据行，主键='40004'，行号=310
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 40009
+    详情: 目录 A 缺少数据行，主键='40009'，行号=315
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 40011
+    详情: 目录 A 缺少数据行，主键='40011'，行号=317
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 40012
+    详情: 目录 A 缺少数据行，主键='40012'，行号=318
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 40015
+    详情: 目录 A 缺少数据行，主键='40015'，行号=321
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 40016
+    详情: 目录 A 缺少数据行，主键='40016'，行号=322
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 40017
+    详情: 目录 A 缺少数据行，主键='40017'，行号=323
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 40018
+    详情: 目录 A 缺少数据行，主键='40018'，行号=324
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 40019
+    详情: 目录 A 缺少数据行，主键='40019'，行号=325
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 40020
+    详情: 目录 A 缺少数据行，主键='40020'，行号=326
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 40021
+    详情: 目录 A 缺少数据行，主键='40021'，行号=327
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 40022
+    详情: 目录 A 缺少数据行，主键='40022'，行号=328
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 40023
+    详情: 目录 A 缺少数据行，主键='40023'，行号=329
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 40024
+    详情: 目录 A 缺少数据行，主键='40024'，行号=330
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 40025
+    详情: 目录 A 缺少数据行，主键='40025'，行号=331
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 40041
+    详情: 目录 A 缺少数据行，主键='40041'，行号=347
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 40042
+    详情: 目录 A 缺少数据行，主键='40042'，行号=348
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 40043
+    详情: 目录 A 缺少数据行，主键='40043'，行号=349
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 12121
+    详情: 目录 A 缺少数据行，主键='12121'，行号=522
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 12122
+    详情: 目录 A 缺少数据行，主键='12122'，行号=523
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 12123
+    详情: 目录 A 缺少数据行，主键='12123'，行号=524
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 12124
+    详情: 目录 A 缺少数据行，主键='12124'，行号=525
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 12125
+    详情: 目录 A 缺少数据行，主键='12125'，行号=526
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 12126
+    详情: 目录 A 缺少数据行，主键='12126'，行号=527
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 12127
+    详情: 目录 A 缺少数据行，主键='12127'，行号=528
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 12128
+    详情: 目录 A 缺少数据行，主键='12128'，行号=529
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 12129
+    详情: 目录 A 缺少数据行，主键='12129'，行号=530
+  - 类型: missing_row
+    Sheet: 外观配饰表|CharAccessory
+    主键: 12130
+    详情: 目录 A 缺少数据行，主键='12130'，行号=531
+
+[表] Combat/BattleRoleInfo.xlsx
+  - 类型: missing_row
+    Sheet: 战斗角色表|BattleChar
+    主键: 1202
+    详情: 目录 A 缺少数据行，主键='1202'，行号=27
+
+[表] Combat/BattleWeapon.xlsx
+  - 类型: missing_row
+    Sheet: 武器表|BattleWeapon
+    主键: 852301
+    详情: 目录 A 缺少数据行，主键='852301'，行号=124
+
+[表] Combat/Buff.xlsx
+  - 类型: missing_row
+    Sheet: 状态表|Buff
+    主键: 120211
+    详情: 目录 A 缺少数据行，主键='120211'，行号=245
+  - 类型: missing_row
+    Sheet: 状态表|Buff
+    主键: 540200
+    详情: 目录 A 缺少数据行，主键='540200'，行号=527
+  - 类型: missing_row
+    Sheet: 状态表|Buff
+    主键: 540205
+    详情: 目录 A 缺少数据行，主键='540205'，行号=532
+  - 类型: missing_row
+    Sheet: 状态表|Buff
+    主键: 540206
+    详情: 目录 A 缺少数据行，主键='540206'，行号=533
+  - 类型: missing_row
+    Sheet: 状态表|Buff
+    主键: 540212
+    详情: 目录 A 缺少数据行，主键='540212'，行号=535
+  - 类型: missing_row
+    Sheet: 状态表|Buff
+    主键: 540241
+    详情: 目录 A 缺少数据行，主键='540241'，行号=539
+  - 类型: missing_row
+    Sheet: 状态表|Buff
+    主键: 540242
+    详情: 目录 A 缺少数据行，主键='540242'，行号=540
+
+[表] Combat/CameraControlData.xlsx
+  - 类型: missing_row
+    Sheet: 相机控制参数表|CameraControlData
+    主键: StoryCameraPanpa
+    详情: 目录 A 缺少数据行，主键='StoryCameraPanpa'，行号=32
+
+[表] Combat/CombatCondition.xlsx
+  - 类型: missing_row
+    Sheet: 战斗触发条件表|CombatCondition
+    主键: 540203
+    详情: 目录 A 缺少数据行，主键='540203'，行号=277
+  - 类型: missing_row
+    Sheet: 战斗触发条件表|CombatCondition
+    主键: 540205
+    详情: 目录 A 缺少数据行，主键='540205'，行号=278
+  - 类型: missing_row
+    Sheet: 战斗触发条件表|CombatCondition
+    主键: 540206
+    详情: 目录 A 缺少数据行，主键='540206'，行号=279
+
+[表] Combat/SKill/Skill_Char.xlsx
+  - 类型: missing_row
+    Sheet: 被动效果表|PassiveEffect
+    主键: 120201
+    详情: 目录 A 缺少数据行，主键='120201'，行号=212
+  - 类型: missing_row
+    Sheet: 被动效果表|PassiveEffect
+    主键: 120202
+    详情: 目录 A 缺少数据行，主键='120202'，行号=213
+  - 类型: missing_row
+    Sheet: 被动效果表|PassiveEffect
+    主键: 120203
+    详情: 目录 A 缺少数据行，主键='120203'，行号=214
+  - 类型: missing_row
+    Sheet: 被动效果表|PassiveEffect
+    主键: 540211
+    详情: 目录 A 缺少数据行，主键='540211'，行号=311
+  - 类型: missing_row
+    Sheet: 技能节点表|SkillNode
+    主键: 120211
+    详情: 目录 A 缺少数据行，主键='120211'，行号=202
+  - 类型: missing_row
+    Sheet: 技能节点表|SkillNode
+    主键: 120212
+    详情: 目录 A 缺少数据行，主键='120212'，行号=203
+  - 类型: missing_row
+    Sheet: 技能节点表|SkillNode
+    主键: 120213
+    详情: 目录 A 缺少数据行，主键='120213'，行号=204
+  - 类型: missing_row
+    Sheet: 技能节点表|SkillNode
+    主键: 120214
+    详情: 目录 A 缺少数据行，主键='120214'，行号=205
+  - 类型: missing_row
+    Sheet: 技能节点表|SkillNode
+    主键: 120221
+    详情: 目录 A 缺少数据行，主键='120221'，行号=206
+  - 类型: missing_row
+    Sheet: 技能节点表|SkillNode
+    主键: 210216
+    详情: 目录 A 缺少数据行，主键='210216'，行号=292
+  - 类型: missing_row
+    Sheet: 技能节点表|SkillNode
+    主键: 210223
+    详情: 目录 A 缺少数据行，主键='210223'，行号=296
+  - 类型: missing_row
+    Sheet: 技能节点表|SkillNode
+    主键: 540220
+    详情: 目录 A 缺少数据行，主键='540220'，行号=402
+  - 类型: missing_row
+    Sheet: 技能节点表|SkillNode
+    主键: 540223
+    详情: 目录 A 缺少数据行，主键='540223'，行号=405
+  - 类型: missing_row
+    Sheet: 技能节点表|SkillNode
+    主键: 540231
+    详情: 目录 A 缺少数据行，主键='540231'，行号=406
+  - 类型: missing_row
+    Sheet: 技能节点表|SkillNode
+    主键: 540241
+    详情: 目录 A 缺少数据行，主键='540241'，行号=407
+  - 类型: missing_row
+    Sheet: 技能节点表|SkillNode
+    主键: 540251
+    详情: 目录 A 缺少数据行，主键='540251'，行号=408
+  - 类型: missing_row
+    Sheet: 技能创生物|SkillCreature
+    主键: 120211
+    详情: 目录 A 缺少数据行，主键='120211'，行号=60
+  - 类型: missing_row
+    Sheet: 技能效果|SkillEffects
+    主键: 120211
+    详情: 目录 A 缺少数据行，主键='120211'，行号=694
+  - 类型: missing_row
+    Sheet: 技能效果|SkillEffects
+    主键: 120212
+    详情: 目录 A 缺少数据行，主键='120212'，行号=695
+  - 类型: missing_row
+    Sheet: 技能效果|SkillEffects
+    主键: 120213
+    详情: 目录 A 缺少数据行，主键='120213'，行号=696
+  - 类型: missing_row
+    Sheet: 技能效果|SkillEffects
+    主键: 210252
+    详情: 目录 A 缺少数据行，主键='210252'，行号=917
+  - 类型: missing_row
+    Sheet: 技能效果|SkillEffects
+    主键: 540201
+    详情: 目录 A 缺少数据行，主键='540201'，行号=1177
+  - 类型: missing_row
+    Sheet: 技能效果|SkillEffects
+    主键: 540202
+    详情: 目录 A 缺少数据行，主键='540202'，行号=1178
+  - 类型: missing_row
+    Sheet: 技能效果|SkillEffects
+    主键: 540203
+    详情: 目录 A 缺少数据行，主键='540203'，行号=1179
+  - 类型: missing_row
+    Sheet: 技能效果|SkillEffects
+    主键: 540232
+    详情: 目录 A 缺少数据行，主键='540232'，行号=1187
+  - 类型: missing_row
+    Sheet: 技能效果|SkillEffects
+    主键: 540241
+    详情: 目录 A 缺少数据行，主键='540241'，行号=1188
+  - 类型: missing_row
+    Sheet: 技能效果|SkillEffects
+    主键: 540242
+    详情: 目录 A 缺少数据行，主键='540242'，行号=1189
+  - 类型: missing_row
+    Sheet: 技能效果|SkillEffects
+    主键: 540251
+    详情: 目录 A 缺少数据行，主键='540251'，行号=1190
+  - 类型: missing_row
+    Sheet: 技能效果|SkillEffects
+    主键: 540252
+    详情: 目录 A 缺少数据行，主键='540252'，行号=1191
+  - 类型: missing_row
+    Sheet: 技能表|Skill
+    主键: 120201
+    详情: 目录 A 缺少数据行，主键='120201'，行号=215
+  - 类型: missing_row
+    Sheet: 技能表|Skill
+    主键: 120211
+    详情: 目录 A 缺少数据行，主键='120211'，行号=216
+  - 类型: missing_row
+    Sheet: 技能表|Skill
+    主键: 120212
+    详情: 目录 A 缺少数据行，主键='120212'，行号=217
+  - 类型: missing_row
+    Sheet: 技能表|Skill
+    主键: 120213
+    详情: 目录 A 缺少数据行，主键='120213'，行号=218
+  - 类型: missing_row
+    Sheet: 技能表|Skill
+    主键: 120202
+    详情: 目录 A 缺少数据行，主键='120202'，行号=219
+  - 类型: missing_row
+    Sheet: 技能表|Skill
+    主键: 120203
+    详情: 目录 A 缺少数据行，主键='120203'，行号=221
+  - 类型: missing_row
+    Sheet: 技能表|Skill
+    主键: 120204
+    详情: 目录 A 缺少数据行，主键='120204'，行号=222
+  - 类型: missing_row
+    Sheet: 技能表|Skill
+    主键: 210214
+    详情: 目录 A 缺少数据行，主键='210214'，行号=312
+  - 类型: missing_row
+    Sheet: 技能表|Skill
+    主键: 210222
+    详情: 目录 A 缺少数据行，主键='210222'，行号=316
+  - 类型: missing_row
+    Sheet: 技能表|Skill
+    主键: 540231
+    详情: 目录 A 缺少数据行，主键='540231'，行号=465
+  - 类型: missing_row
+    Sheet: 技能表|Skill
+    主键: 540232
+    详情: 目录 A 缺少数据行，主键='540232'，行号=466
+  - 类型: missing_row
+    Sheet: 技能表|Skill
+    主键: 540220
+    详情: 目录 A 缺少数据行，主键='540220'，行号=468
+  - 类型: missing_row
+    Sheet: 技能表|Skill
+    主键: 540223
+    详情: 目录 A 缺少数据行，主键='540223'，行号=471
+  - 类型: missing_row
+    Sheet: 技能表|Skill
+    主键: 540241
+    详情: 目录 A 缺少数据行，主键='540241'，行号=472
+  - 类型: missing_row
+    Sheet: 技能表|Skill
+    主键: 540251
+    详情: 目录 A 缺少数据行，主键='540251'，行号=473
+
+[表] Combat/SKill/Skill_Monster.xlsx
+  - 类型: missing_row
+    Sheet: 技能创生物|SkillCreature
+    主键: 852303
+    详情: 目录 A 缺少数据行，主键='852303'，行号=416
+  - 类型: missing_row
+    Sheet: 技能效果|SkillEffects
+    主键: 8523015
+    详情: 目录 A 缺少数据行，主键='8523015'，行号=1641
+  - 类型: missing_row
+    Sheet: 技能效果|SkillEffects
+    主键: 8523016
+    详情: 目录 A 缺少数据行，主键='8523016'，行号=1642
+
+[表] Combat/TargetFilter.xlsx
+  - 类型: missing_row
+    Sheet: 目标过滤表|TargetFilter
+    主键: BossJishi_Attack01
+    详情: 目录 A 缺少数据行，主键='BossJishi_Attack01'，行号=421
+  - 类型: missing_row
+    Sheet: 目标过滤表|TargetFilter
+    主键: BossJishi_Attack02
+    详情: 目录 A 缺少数据行，主键='BossJishi_Attack02'，行号=422
+
+[表] GlobalConstant.xlsx
+  - 类型: missing_row
+    Sheet: 全局变量表|GlobalConstant
+    主键: GuildLogoEditCoolDownDay
+    详情: 目录 A 缺少数据行，主键='GuildLogoEditCoolDownDay'，行号=394
+  - 类型: missing_row
+    Sheet: 全局变量表|GlobalConstant
+    主键: TheaterRegionId
+    详情: 目录 A 缺少数据行，主键='TheaterRegionId'，行号=406
+
+[表] GMIntegration.xlsx
+  - 类型: missing_row
+    Sheet: GM指令整合表|GMIntegration
+    主键: dixiaqianru
+    详情: 目录 A 缺少数据行，主键='dixiaqianru'，行号=197
+  - 类型: missing_row
+    Sheet: GM指令整合表|GMIntegration
+    主键: panpa
+    详情: 目录 A 缺少数据行，主键='panpa'，行号=198
+  - 类型: missing_row
+    Sheet: GM指令整合表|GMIntegration
+    主键: hunluanchezhan
+    详情: 目录 A 缺少数据行，主键='hunluanchezhan'，行号=199
+  - 类型: missing_row
+    Sheet: GM指令整合表|GMIntegration
+    主键: dixiapaoku
+    详情: 目录 A 缺少数据行，主键='dixiapaoku'，行号=200
+  - 类型: missing_row
+    Sheet: GM指令整合表|GMIntegration
+    主键: haluoji01
+    详情: 目录 A 缺少数据行，主键='haluoji01'，行号=201
+  - 类型: missing_row
+    Sheet: GM指令整合表|GMIntegration
+    主键: tiaochepaoku
+    详情: 目录 A 缺少数据行，主键='tiaochepaoku'，行号=202
+  - 类型: missing_row
+    Sheet: GM指令整合表|GMIntegration
+    主键: paotaifeiting
+    详情: 目录 A 缺少数据行，主键='paotaifeiting'，行号=203
+  - 类型: missing_row
+    Sheet: GM指令整合表|GMIntegration
+    主键: haluoji02
+    详情: 目录 A 缺少数据行，主键='haluoji02'，行号=204
+  - 类型: missing_row
+    Sheet: GM指令整合表|GMIntegration
+    主键: kajiaboss01
+    详情: 目录 A 缺少数据行，主键='kajiaboss01'，行号=205
+  - 类型: missing_row
+    Sheet: GM指令整合表|GMIntegration
+    主键: kajiaboss02
+    详情: 目录 A 缺少数据行，主键='kajiaboss02'，行号=206
+  - 类型: missing_row
+    Sheet: GM指令整合表|GMIntegration
+    主键: gotoYWS
+    详情: 目录 A 缺少数据行，主键='gotoYWS'，行号=207
+  - 类型: missing_row
+    Sheet: GM指令整合表|GMIntegration
+    主键: guanlishi
+    详情: 目录 A 缺少数据行，主键='guanlishi'，行号=208
+  - 类型: missing_row
+    Sheet: GM指令整合表|GMIntegration
+    主键: cangkuzhandou
+    详情: 目录 A 缺少数据行，主键='cangkuzhandou'，行号=209
+  - 类型: missing_row
+    Sheet: GM指令整合表|GMIntegration
+    主键: chezhang
+    详情: 目录 A 缺少数据行，主键='chezhang'，行号=210
+  - 类型: missing_row
+    Sheet: GM指令整合表|GMIntegration
+    主键: anxiangxinglu
+    详情: 目录 A 缺少数据行，主键='anxiangxinglu'，行号=211
+  - 类型: missing_row
+    Sheet: GM指令整合表|GMIntegration
+    主键: tiedaoxianshangdeyinmou
+    详情: 目录 A 缺少数据行，主键='tiedaoxianshangdeyinmou'，行号=212
+  - 类型: missing_row
+    Sheet: GM指令整合表|GMIntegration
+    主键: baozhaanyanjiu
+    详情: 目录 A 缺少数据行，主键='baozhaanyanjiu'，行号=213
+  - 类型: missing_row
+    Sheet: GM指令整合表|GMIntegration
+    主键: jiguangkuaicheshangdemimi
+    详情: 目录 A 缺少数据行，主键='jiguangkuaicheshangdemimi'，行号=214
+  - 类型: missing_row
+    Sheet: GM指令整合表|GMIntegration
+    主键: xianyirendexian
+    详情: 目录 A 缺少数据行，主键='xianyirendexian'，行号=215
+
+[表] Guild.xlsx
+  - 类型: missing_row
+    Sheet: 工会动态|GuildMessage
+    主键: SetTitle
+    详情: 目录 A 缺少数据行，主键='SetTitle'，行号=5
+  - 类型: missing_row
+    Sheet: 工会动态|GuildMessage
+    主键: GuildCreateSuccess
+    详情: 目录 A 缺少数据行，主键='GuildCreateSuccess'，行号=6
+  - 类型: missing_row
+    Sheet: 工会动态|GuildMessage
+    主键: ChangeGuildName
+    详情: 目录 A 缺少数据行，主键='ChangeGuildName'，行号=7
+  - 类型: missing_row
+    Sheet: 工会动态|GuildMessage
+    主键: ChangedDecl
+    详情: 目录 A 缺少数据行，主键='ChangedDecl'，行号=8
+  - 类型: missing_row
+    Sheet: 工会动态|GuildMessage
+    主键: ChangedLogo
+    详情: 目录 A 缺少数据行，主键='ChangedLogo'，行号=9
+  - 类型: missing_row
+    Sheet: 工会动态|GuildMessage
+    主键: JoinMember
+    详情: 目录 A 缺少数据行，主键='JoinMember'，行号=10
+  - 类型: missing_row
+    Sheet: 工会动态|GuildMessage
+    主键: LeaveMember
+    详情: 目录 A 缺少数据行，主键='LeaveMember'，行号=11
+  - 类型: missing_row
+    Sheet: 工会动态|GuildMessage
+    主键: SetPermissionSwitch
+    详情: 目录 A 缺少数据行，主键='SetPermissionSwitch'，行号=12
+  - 类型: missing_row
+    Sheet: 工会动态|GuildMessage
+    主键: KickMember
+    详情: 目录 A 缺少数据行，主键='KickMember'，行号=13
+  - 类型: missing_row
+    Sheet: 工会动态|GuildMessage
+    主键: SetOwner
+    详情: 目录 A 缺少数据行，主键='SetOwner'，行号=14
+
+[表] I18n/Talk_Dungeon_I18n.xlsx
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4419742
+    详情: 目录 A 缺少数据行，主键='B4419742'，行号=546
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441976C
+    详情: 目录 A 缺少数据行，主键='B441976C'，行号=547
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4419796
+    详情: 目录 A 缺少数据行，主键='B4419796'，行号=548
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B44197C0
+    详情: 目录 A 缺少数据行，主键='B44197C0'，行号=549
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B44197EA
+    详情: 目录 A 缺少数据行，主键='B44197EA'，行号=550
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441A7AA
+    详情: 目录 A 缺少数据行，主键='B441A7AA'，行号=551
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441A7D4
+    详情: 目录 A 缺少数据行，主键='B441A7D4'，行号=552
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441A7FE
+    详情: 目录 A 缺少数据行，主键='B441A7FE'，行号=553
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441A828
+    详情: 目录 A 缺少数据行，主键='B441A828'，行号=554
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441A852
+    详情: 目录 A 缺少数据行，主键='B441A852'，行号=555
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441A87C
+    详情: 目录 A 缺少数据行，主键='B441A87C'，行号=556
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441B812
+    详情: 目录 A 缺少数据行，主键='B441B812'，行号=557
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441B83C
+    详情: 目录 A 缺少数据行，主键='B441B83C'，行号=558
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441B866
+    详情: 目录 A 缺少数据行，主键='B441B866'，行号=559
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441B890
+    详情: 目录 A 缺少数据行，主键='B441B890'，行号=560
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441B8BA
+    详情: 目录 A 缺少数据行，主键='B441B8BA'，行号=561
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441C87A
+    详情: 目录 A 缺少数据行，主键='B441C87A'，行号=562
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441C8A4
+    详情: 目录 A 缺少数据行，主键='B441C8A4'，行号=563
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441C8CE
+    详情: 目录 A 缺少数据行，主键='B441C8CE'，行号=564
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441C8F8
+    详情: 目录 A 缺少数据行，主键='B441C8F8'，行号=565
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441D8E2
+    详情: 目录 A 缺少数据行，主键='B441D8E2'，行号=566
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441D90C
+    详情: 目录 A 缺少数据行，主键='B441D90C'，行号=567
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441D936
+    详情: 目录 A 缺少数据行，主键='B441D936'，行号=568
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441D960
+    详情: 目录 A 缺少数据行，主键='B441D960'，行号=569
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441D98A
+    详情: 目录 A 缺少数据行，主键='B441D98A'，行号=570
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441E94A
+    详情: 目录 A 缺少数据行，主键='B441E94A'，行号=571
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441E974
+    详情: 目录 A 缺少数据行，主键='B441E974'，行号=572
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441E99E
+    详情: 目录 A 缺少数据行，主键='B441E99E'，行号=573
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441E9C8
+    详情: 目录 A 缺少数据行，主键='B441E9C8'，行号=574
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441E9F2
+    详情: 目录 A 缺少数据行，主键='B441E9F2'，行号=575
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441F9B2
+    详情: 目录 A 缺少数据行，主键='B441F9B2'，行号=576
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441F9DC
+    详情: 目录 A 缺少数据行，主键='B441F9DC'，行号=577
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441FA06
+    详情: 目录 A 缺少数据行，主键='B441FA06'，行号=578
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441FA30
+    详情: 目录 A 缺少数据行，主键='B441FA30'，行号=579
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B441FA5A
+    详情: 目录 A 缺少数据行，主键='B441FA5A'，行号=580
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4420A1A
+    详情: 目录 A 缺少数据行，主键='B4420A1A'，行号=581
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4420A44
+    详情: 目录 A 缺少数据行，主键='B4420A44'，行号=582
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4420A6E
+    详情: 目录 A 缺少数据行，主键='B4420A6E'，行号=583
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4420A98
+    详情: 目录 A 缺少数据行，主键='B4420A98'，行号=584
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4421A82
+    详情: 目录 A 缺少数据行，主键='B4421A82'，行号=585
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4421AAC
+    详情: 目录 A 缺少数据行，主键='B4421AAC'，行号=586
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4421AD6
+    详情: 目录 A 缺少数据行，主键='B4421AD6'，行号=587
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4421B00
+    详情: 目录 A 缺少数据行，主键='B4421B00'，行号=588
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4421B2A
+    详情: 目录 A 缺少数据行，主键='B4421B2A'，行号=589
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4422AEA
+    详情: 目录 A 缺少数据行，主键='B4422AEA'，行号=590
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4422B14
+    详情: 目录 A 缺少数据行，主键='B4422B14'，行号=591
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4422B3E
+    详情: 目录 A 缺少数据行，主键='B4422B3E'，行号=592
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4422B68
+    详情: 目录 A 缺少数据行，主键='B4422B68'，行号=593
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4422B92
+    详情: 目录 A 缺少数据行，主键='B4422B92'，行号=594
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4422BBC
+    详情: 目录 A 缺少数据行，主键='B4422BBC'，行号=595
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4423B52
+    详情: 目录 A 缺少数据行，主键='B4423B52'，行号=596
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4423B7C
+    详情: 目录 A 缺少数据行，主键='B4423B7C'，行号=597
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4423BA6
+    详情: 目录 A 缺少数据行，主键='B4423BA6'，行号=598
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4423BD0
+    详情: 目录 A 缺少数据行，主键='B4423BD0'，行号=599
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4423BFA
+    详情: 目录 A 缺少数据行，主键='B4423BFA'，行号=600
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4424BBA
+    详情: 目录 A 缺少数据行，主键='B4424BBA'，行号=601
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4424BE4
+    详情: 目录 A 缺少数据行，主键='B4424BE4'，行号=602
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4424C0E
+    详情: 目录 A 缺少数据行，主键='B4424C0E'，行号=603
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4424C38
+    详情: 目录 A 缺少数据行，主键='B4424C38'，行号=604
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4424C62
+    详情: 目录 A 缺少数据行，主键='B4424C62'，行号=605
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4424C8C
+    详情: 目录 A 缺少数据行，主键='B4424C8C'，行号=606
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4425C22
+    详情: 目录 A 缺少数据行，主键='B4425C22'，行号=607
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4425C4C
+    详情: 目录 A 缺少数据行，主键='B4425C4C'，行号=608
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4425C76
+    详情: 目录 A 缺少数据行，主键='B4425C76'，行号=609
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4425CA0
+    详情: 目录 A 缺少数据行，主键='B4425CA0'，行号=610
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4425CCA
+    详情: 目录 A 缺少数据行，主键='B4425CCA'，行号=611
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4426C8A
+    详情: 目录 A 缺少数据行，主键='B4426C8A'，行号=612
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4426CB4
+    详情: 目录 A 缺少数据行，主键='B4426CB4'，行号=613
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4426CDE
+    详情: 目录 A 缺少数据行，主键='B4426CDE'，行号=614
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4426D08
+    详情: 目录 A 缺少数据行，主键='B4426D08'，行号=615
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4426D32
+    详情: 目录 A 缺少数据行，主键='B4426D32'，行号=616
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4427CF2
+    详情: 目录 A 缺少数据行，主键='B4427CF2'，行号=617
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4427D1C
+    详情: 目录 A 缺少数据行，主键='B4427D1C'，行号=618
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4427D46
+    详情: 目录 A 缺少数据行，主键='B4427D46'，行号=619
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4427D70
+    详情: 目录 A 缺少数据行，主键='B4427D70'，行号=620
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4427D9A
+    详情: 目录 A 缺少数据行，主键='B4427D9A'，行号=621
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4428D5A
+    详情: 目录 A 缺少数据行，主键='B4428D5A'，行号=622
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4428D84
+    详情: 目录 A 缺少数据行，主键='B4428D84'，行号=623
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4428DAE
+    详情: 目录 A 缺少数据行，主键='B4428DAE'，行号=624
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4428DD8
+    详情: 目录 A 缺少数据行，主键='B4428DD8'，行号=625
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4428E02
+    详情: 目录 A 缺少数据行，主键='B4428E02'，行号=626
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4428E2C
+    详情: 目录 A 缺少数据行，主键='B4428E2C'，行号=627
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4429DC2
+    详情: 目录 A 缺少数据行，主键='B4429DC2'，行号=628
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4429DEC
+    详情: 目录 A 缺少数据行，主键='B4429DEC'，行号=629
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4429E16
+    详情: 目录 A 缺少数据行，主键='B4429E16'，行号=630
+  - 类型: missing_row
+    Sheet: 台本表|Dialogue_I18n
+    主键: B4429E40
+    详情: 目录 A 缺少数据行，主键='B4429E40'，行号=631
+
+[表] I18n/TextMap_Copywriting_I18n.xlsx
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Skin_Name_310101
+    详情: 目录 A 缺少数据行，主键='UI_Skin_Name_310101'，行号=2553
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine77
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine77'，行号=4525
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine78
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine78'，行号=4526
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine79
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine79'，行号=4527
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine80
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine80'，行号=4528
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine81
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine81'，行号=4529
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine82
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine82'，行号=4530
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine83
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine83'，行号=4531
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine84
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine84'，行号=4532
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine85
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine85'，行号=4533
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine86
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine86'，行号=4534
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine87
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine87'，行号=4535
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine88
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine88'，行号=4536
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine89
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine89'，行号=4537
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine90
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine90'，行号=4538
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine91
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine91'，行号=4539
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine92
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine92'，行号=4540
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine93
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine93'，行号=4541
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine94
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine94'，行号=4542
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine95
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine95'，行号=4543
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine96
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine96'，行号=4544
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine97
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine97'，行号=4545
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine98
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine98'，行号=4546
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine99
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine99'，行号=4547
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine100
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine100'，行号=4548
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine101
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine101'，行号=4549
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine102
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine102'，行号=4550
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine103
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine103'，行号=4551
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine104
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine104'，行号=4552
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine105
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine105'，行号=4553
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine106
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine106'，行号=4554
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine107
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine107'，行号=4555
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Chat_Imagine108
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine108'，行号=4556
+
+[表] I18n/TextMap_Quest_I18n.xlsx
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: Content_10040204_01_07
+    详情: 目录 A 缺少数据行，主键='Content_10040204_01_07'，行号=6604
+
+[表] I18n/TextMap_System_I18n.xlsx
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Saved_Album
+    详情: 目录 A 缺少数据行，主键='UI_Saved_Album'，行号=3754
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_Save_Failed
+    详情: 目录 A 缺少数据行，主键='UI_Save_Failed'，行号=3755
+
+[表] I18n/TextMap_System_OBT_I18n.xlsx
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_1
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_1'，行号=692
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_2
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_2'，行号=693
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_3
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_3'，行号=694
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_4
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_4'，行号=695
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_5
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_5'，行号=696
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_6
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_6'，行号=697
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_7
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_7'，行号=698
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_8
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_8'，行号=699
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_9
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_9'，行号=700
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_10
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_10'，行号=701
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_11
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_11'，行号=702
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_12
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_12'，行号=703
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_13
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_13'，行号=704
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_14
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_14'，行号=705
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_15
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_15'，行号=706
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_16
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_16'，行号=707
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_17
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_17'，行号=708
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_18
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_18'，行号=709
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_19
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_19'，行号=710
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_20
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_20'，行号=711
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_21
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_21'，行号=712
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_22
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_22'，行号=713
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_23
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_23'，行号=714
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_24
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_24'，行号=715
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_25
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_25'，行号=716
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_26
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_26'，行号=717
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap_I18n
+    主键: UI_AutoChess_ExtraBuffDesc_27
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_27'，行号=718
+
+[表] Model.xlsx
+  - 类型: missing_row
+    Sheet: 模型表|Model
+    主键: 852303
+    详情: 目录 A 缺少数据行，主键='852303'，行号=854
+
+[表] MonsterSpawn/MonsterSpawn_Main.xlsx
+  - 类型: missing_row
+    Sheet: 怪物点|MonsterSpawn
+    主键: 40106
+    详情: 目录 A 缺少数据行，主键='40106'，行号=56
+
+[表] ReasonType.xlsx
+  - 类型: missing_row
+    Sheet: Reason枚举|ReasonType
+    主键: 25003
+    详情: 目录 A 缺少数据行，主键='25003'，行号=159
+
+[表] Region.xlsx
+  - 类型: missing_row
+    Sheet: 区域表|Region
+    主键: 1022
+    详情: 目录 A 缺少数据行，主键='1022'，行号=14
+  - 类型: missing_row
+    Sheet: 子区域表|SubRegion
+    主键: 102201
+    详情: 目录 A 缺少数据行，主键='102201'，行号=34
+
+[表] Resource.xlsx
+  - 类型: missing_row
+    Sheet: 资源表|Resource
+    主键: 3000017
+    详情: 目录 A 缺少数据行，主键='3000017'，行号=666
+
+[表] RewardView.xlsx
+  - 类型: missing_row
+    Sheet: 奖励预览表|RewardView
+    主键: 1030120
+    详情: 目录 A 缺少数据行，主键='1030120'，行号=221
+
+[表] RougePro/RougePro_Treasure.xlsx
+  - 类型: missing_row
+    Sheet: 套装效果表|RougeProTreasureGroup
+    主键: 101
+    详情: 目录 A 缺少数据行，主键='101'，行号=5
+  - 类型: missing_row
+    Sheet: 套装效果表|RougeProTreasureGroup
+    主键: 102
+    详情: 目录 A 缺少数据行，主键='102'，行号=6
+  - 类型: missing_row
+    Sheet: 套装效果表|RougeProTreasureGroup
+    主键: 103
+    详情: 目录 A 缺少数据行，主键='103'，行号=7
+  - 类型: missing_row
+    Sheet: 套装效果表|RougeProTreasureGroup
+    主键: 104
+    详情: 目录 A 缺少数据行，主键='104'，行号=8
+  - 类型: missing_row
+    Sheet: 套装效果表|RougeProTreasureGroup
+    主键: 105
+    详情: 目录 A 缺少数据行，主键='105'，行号=9
+  - 类型: missing_row
+    Sheet: 宝物表|RougeProTreasure
+    主键: 低稀有度
+    详情: 目录 A 缺少数据行，主键='低稀有度'，行号=5
+  - 类型: missing_row
+    Sheet: 宝物表|RougeProTreasure
+    主键: 中稀有度
+    详情: 目录 A 缺少数据行，主键='中稀有度'，行号=17
+  - 类型: missing_row
+    Sheet: 宝物表|RougeProTreasure
+    主键: 高稀有度
+    详情: 目录 A 缺少数据行，主键='高稀有度'，行号=22
+  - 类型: missing_row
+    Sheet: 宝物表|RougeProTreasure
+    主键: 护卫骑士套
+    详情: 目录 A 缺少数据行，主键='护卫骑士套'，行号=26
+  - 类型: missing_row
+    Sheet: 宝物表|RougeProTreasure
+    主键: 11101
+    详情: 目录 A 缺少数据行，主键='11101'，行号=27
+  - 类型: missing_row
+    Sheet: 宝物表|RougeProTreasure
+    主键: 繁荣之神的契约套
+    详情: 目录 A 缺少数据行，主键='繁荣之神的契约套'，行号=29
+  - 类型: missing_row
+    Sheet: 宝物表|RougeProTreasure
+    主键: 12101
+    详情: 目录 A 缺少数据行，主键='12101'，行号=30
+  - 类型: missing_row
+    Sheet: 宝物表|RougeProTreasure
+    主键: 12102
+    详情: 目录 A 缺少数据行，主键='12102'，行号=31
+  - 类型: missing_row
+    Sheet: 宝物表|RougeProTreasure
+    主键: 四象铭印套
+    详情: 目录 A 缺少数据行，主键='四象铭印套'，行号=33
+  - 类型: missing_row
+    Sheet: 宝物表|RougeProTreasure
+    主键: 13101
+    详情: 目录 A 缺少数据行，主键='13101'，行号=34
+  - 类型: missing_row
+    Sheet: 宝物表|RougeProTreasure
+    主键: 13102
+    详情: 目录 A 缺少数据行，主键='13102'，行号=35
+  - 类型: missing_row
+    Sheet: 宝物表|RougeProTreasure
+    主键: 13103
+    详情: 目录 A 缺少数据行，主键='13103'，行号=36
+  - 类型: missing_row
+    Sheet: 宝物表|RougeProTreasure
+    主键: 13104
+    详情: 目录 A 缺少数据行，主键='13104'，行号=37
+  - 类型: missing_row
+    Sheet: 宝物表|RougeProTreasure
+    主键: 赎罪骑士套
+    详情: 目录 A 缺少数据行，主键='赎罪骑士套'，行号=38
+  - 类型: missing_row
+    Sheet: 宝物表|RougeProTreasure
+    主键: 14101
+    详情: 目录 A 缺少数据行，主键='14101'，行号=39
+  - 类型: missing_row
+    Sheet: 宝物表|RougeProTreasure
+    主键: 14301
+    详情: 目录 A 缺少数据行，主键='14301'，行号=42
+  - 类型: missing_row
+    Sheet: 宝物表|RougeProTreasure
+    主键: 幽惘术士套
+    详情: 目录 A 缺少数据行，主键='幽惘术士套'，行号=43
+  - 类型: missing_row
+    Sheet: 宝物表|RougeProTreasure
+    主键: 15101
+    详情: 目录 A 缺少数据行，主键='15101'，行号=44
+
+[表] SoundEffect.xlsx
+  - 类型: missing_row
+    Sheet: 音效表|SoundEffect
+    主键: 110203
+    详情: 目录 A 缺少数据行，主键='110203'，行号=213
+
+[表] SystemUI.xlsx
+  - 类型: missing_row
+    Sheet: 系统界面表|SystemUI
+    主键: 选男女
+    详情: 目录 A 缺少数据行，主键='选男女'，行号=92
+  - 类型: missing_row
+    Sheet: 系统界面表|SystemUI
+    主键: WidgetBlueprint'/Game/UI/UI_PC/Battle/Battle_Damage_Indicator_PC.Battle_Damage_Indicator_PC'
+    详情: 目录 A 缺少数据行，主键='WidgetBlueprint'/Game/UI/UI_PC/Battle/Battle_Damage_Indicator_PC.Battle_Damage_Indicator_PC''，行号=156
+
+[表] Talk/FacialAndAction.xlsx
+  - 类型: missing_row
+    Sheet: 动作表|TalkAction
+    主键: Crouch01_Start
+    详情: 目录 A 缺少数据行，主键='Crouch01_Start'，行号=20
+  - 类型: missing_row
+    Sheet: 动作表|TalkAction
+    主键: Crouch01_Loop
+    详情: 目录 A 缺少数据行，主键='Crouch01_Loop'，行号=21
+  - 类型: missing_row
+    Sheet: 动作表|TalkAction
+    主键: Crouch01_End
+    详情: 目录 A 缺少数据行，主键='Crouch01_End'，行号=22
+  - 类型: missing_row
+    Sheet: 表情表|Facial
+    主键: Specialpain
+    详情: 目录 A 缺少数据行，主键='Specialpain'，行号=85
+
+[表] Talk/Talk_Impression_Chapter03.xlsx
+  - 类型: missing_sheet
+    Sheet: Sheet1
+    主键: *
+    详情: 目录 A 缺少此 Sheet
+
+[表] Talk/TalkConfig.xlsx
+  - 类型: missing_row
+    Sheet: 对话类型|TalkType
+    主键: Impression
+    详情: 目录 A 缺少数据行，主键='Impression'，行号=14
+  - 类型: missing_row
+    Sheet: 对话类型|TalkType
+    主键: QuestImpression
+    详情: 目录 A 缺少数据行，主键='QuestImpression'，行号=18
+  - 类型: missing_row
+    Sheet: 对话触发条件表|TalkTrigger
+    主键: 720059
+    详情: 目录 A 缺少数据行，主键='720059'，行号=226
+  - 类型: missing_row
+    Sheet: 对话触发条件表|TalkTrigger
+    主键: 720060
+    详情: 目录 A 缺少数据行，主键='720060'，行号=227
+  - 类型: missing_row
+    Sheet: 对话触发条件表|TalkTrigger
+    主键: 720061
+    详情: 目录 A 缺少数据行，主键='720061'，行号=228
+  - 类型: missing_row
+    Sheet: 对话触发条件表|TalkTrigger
+    主键: 720062
+    详情: 目录 A 缺少数据行，主键='720062'，行号=229
+  - 类型: missing_row
+    Sheet: 对话触发条件表|TalkTrigger
+    主键: 720063
+    详情: 目录 A 缺少数据行，主键='720063'，行号=230
+  - 类型: missing_row
+    Sheet: 对话打断|TalkInterrupt
+    主键: Impression
+    详情: 目录 A 缺少数据行，主键='Impression'，行号=14
+  - 类型: missing_row
+    Sheet: 对话打断|TalkInterrupt
+    主键: QuestImpression
+    详情: 目录 A 缺少数据行，主键='QuestImpression'，行号=18
+
+[表] TextMap/TextMap_Copywriting.xlsx
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Skin_Name_310101
+    详情: 目录 A 缺少数据行，主键='UI_Skin_Name_310101'，行号=2586
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine77
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine77'，行号=4595
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine78
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine78'，行号=4596
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine79
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine79'，行号=4597
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine80
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine80'，行号=4598
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine81
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine81'，行号=4599
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine82
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine82'，行号=4600
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine83
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine83'，行号=4601
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine84
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine84'，行号=4602
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine85
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine85'，行号=4603
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine86
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine86'，行号=4604
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine87
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine87'，行号=4605
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine88
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine88'，行号=4606
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine89
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine89'，行号=4607
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine90
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine90'，行号=4608
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine91
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine91'，行号=4609
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine92
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine92'，行号=4610
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine93
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine93'，行号=4611
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine94
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine94'，行号=4612
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine95
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine95'，行号=4613
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine96
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine96'，行号=4614
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine97
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine97'，行号=4615
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine98
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine98'，行号=4616
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine99
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine99'，行号=4617
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine100
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine100'，行号=4618
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine101
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine101'，行号=4619
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine102
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine102'，行号=4620
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine103
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine103'，行号=4621
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine104
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine104'，行号=4622
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine105
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine105'，行号=4623
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine106
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine106'，行号=4624
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine107
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine107'，行号=4625
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Chat_Imagine108
+    详情: 目录 A 缺少数据行，主键='UI_Chat_Imagine108'，行号=4626
+
+[表] TextMap/TextMap_Quest.xlsx
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: Content_10040204_01_07
+    详情: 目录 A 缺少数据行，主键='Content_10040204_01_07'，行号=7069
+
+[表] TextMap/TextMap_System.xlsx
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Saved_Album
+    详情: 目录 A 缺少数据行，主键='UI_Saved_Album'，行号=3957
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_Save_Failed
+    详情: 目录 A 缺少数据行，主键='UI_Save_Failed'，行号=3958
+
+[表] TextMap/TextMap_System_OBT.xlsx
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_1
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_1'，行号=751
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_2
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_2'，行号=752
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_3
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_3'，行号=753
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_4
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_4'，行号=754
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_5
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_5'，行号=755
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_6
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_6'，行号=756
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_7
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_7'，行号=757
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_8
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_8'，行号=758
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_9
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_9'，行号=759
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_10
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_10'，行号=760
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_11
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_11'，行号=761
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_12
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_12'，行号=762
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_13
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_13'，行号=763
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_14
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_14'，行号=764
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_15
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_15'，行号=765
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_16
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_16'，行号=766
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_17
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_17'，行号=767
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_18
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_18'，行号=768
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_19
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_19'，行号=769
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_20
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_20'，行号=770
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_21
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_21'，行号=771
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_22
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_22'，行号=772
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_23
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_23'，行号=773
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_24
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_24'，行号=774
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_25
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_25'，行号=775
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_26
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_26'，行号=776
+  - 类型: missing_row
+    Sheet: 文本总表|TextMap
+    主键: UI_AutoChess_ExtraBuffDesc_27
+    详情: 目录 A 缺少数据行，主键='UI_AutoChess_ExtraBuffDesc_27'，行号=777
+
+[表] VisualEffect.xlsx
+  - 类型: missing_row
+    Sheet: 特效创生物|EffectCreature
+    主键: 1060101
+    详情: 目录 A 缺少数据行，主键='1060101'，行号=498
+  - 类型: missing_row
+    Sheet: 特效创生物|EffectCreature
+    主键: 1060102
+    详情: 目录 A 缺少数据行，主键='1060102'，行号=499
+  - 类型: missing_row
+    Sheet: 特效创生物|EffectCreature
+    主键: 1060103
+    详情: 目录 A 缺少数据行，主键='1060103'，行号=500
+  - 类型: missing_row
+    Sheet: 武器特效|WeaponFX
+    主键: 1060140
+    详情: 目录 A 缺少数据行，主键='1060140'，行号=325
+  - 类型: missing_row
+    Sheet: 武器特效|WeaponFX
+    主键: 1060141
+    详情: 目录 A 缺少数据行，主键='1060141'，行号=326
+  - 类型: missing_row
+    Sheet: 武器特效|WeaponFX
+    主键: 1060142
+    详情: 目录 A 缺少数据行，主键='1060142'，行号=327
+  - 类型: missing_row
+    Sheet: 武器特效|WeaponFX
+    主键: 1060143
+    详情: 目录 A 缺少数据行，主键='1060143'，行号=328
+
+========================================================================
+共发现 394 处缺失内容。
+========================================================================
